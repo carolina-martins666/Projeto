@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.exe
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.deps.json
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.dll
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\ref\Super.Series.dll
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\bin\Debug\net5.0\Super.Series.pdb
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.dll
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\ref\Super.Series.dll
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.pdb
+C:\Users\User\OneDrive\Documentos\Cursos\Dio\Super.Series\obj\Debug\net5.0\Super.Series.genruntimeconfig.cache
